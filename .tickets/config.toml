@@ -1,0 +1,6 @@
+[push]
+enabled = true
+
+[close]
+require_validation_criteria = false
+require_validation_evidence = "warn"
